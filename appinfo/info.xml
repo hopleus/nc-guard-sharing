@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>nc-guard-sharing</id>
+    <name>Guard sharing</name>
+    <summary>Guard sharing</summary>
+    <version>0.0.1</version>
+    <namespace>GuardSharing</namespace>
+    <description><![CDATA[Guard Sharing]]></description>
+    <category>files</category>
+    <dependencies>
+        <nextcloud min-version="28" max-version="30"/>
+    </dependencies>
+</info>
