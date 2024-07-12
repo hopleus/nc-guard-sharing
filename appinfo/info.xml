@@ -4,7 +4,7 @@
     <id>nc-guard-sharing</id>
     <name>Guard sharing</name>
     <summary>Guard sharing</summary>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <namespace>GuardSharing</namespace>
     <description><![CDATA[Guard Sharing]]></description>
     <category>files</category>
